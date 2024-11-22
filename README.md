@@ -1,1 +1,1 @@
-# Nghi-n-c-u-thi-t-k-v-ch-t-o-m-h-nh-o-rung-ng-c-a-c-n-dao-ti-n
+# Đây là repo cho đề tài Nghiên cứu thiết kế và chế tạo mô hình đo độ rung đông của cán dao tiện
